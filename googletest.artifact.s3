@@ -1,0 +1,3 @@
+package=googletest_build_windows.zip
+url=https://apm-build.s3.amazonaws.com
+version=8aa657e
